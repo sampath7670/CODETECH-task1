@@ -46,18 +46,18 @@ The program displays the result of the chosen operation.
 * Based on the user’s choice, it performs the corresponding calculation.
 * Error handling prevents division by zero.<br>
 *3.Technologies Used:*
-* Python: The primary programming language.
-* Functions: Modularized code for each operation.
-* Input/Output (I/O): User input and result display.
-* Conditional Statements: Decision-making based on user choice.
-* Floating-Point Arithmetic: Handling decimal values.<br>
+  * Python: The primary programming language.
+  * Functions: Modularized code for each operation.
+  * Input/Output (I/O): User input and result display.
+  * Conditional Statements: Decision-making based on user choice.
+  * Floating-Point Arithmetic: Handling decimal values.<br>
 *4.Next Steps:*
-*You can enhance the calculator by adding more features:*
-* Support for additional mathematical functions (e.g., square root, exponentiation).
-* A user-friendly menu system.
-* Error handling for invalid inputs.
-* Unit tests to verify correctness.
-* A graphical user interface (GUI) using libraries like Tkinter.<br>
+  *You can enhance the calculator by adding more features:*
+  * Support for additional mathematical functions (e.g., square root, exponentiation).
+  * A user-friendly menu system.
+  * Error handling for invalid inputs.
+  * Unit tests to verify correctness.
+  * A graphical user interface (GUI) using libraries like Tkinter.<br>
 *5.Acknowledgments:*
-* Thanks for exploring this project! Feel free to adapt, modify, or build upon it.
-* Keep coding and learning—it’s an exciting journey!
+  * Thanks for exploring this project! Feel free to adapt, modify, or build upon it.
+  * Keep coding and learning—it’s an exciting journey!
