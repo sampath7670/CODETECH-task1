@@ -39,7 +39,8 @@ The program displays the result of the chosen operation.
 -  The program will display the result.
 
 # Advanced Calculator Project Conclusion
-*1.Objective:* The goal of this project was to create a Python-based calculator capable of performing basic arithmetic operations: addition, subtraction, multiplication, and division.<br>
+###   1.Objective:    
+* The goal of this project was to create a Python-based calculator capable of performing basic arithmetic operations: addition, subtraction, multiplication, and division.<br>
 *2.Features Implemented:*
 * The program collects two numbers from the user.
 * It prompts the user to select an operation.
