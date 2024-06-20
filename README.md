@@ -14,7 +14,7 @@ Create a Python program that acts as a basic calculator. It should prompt the us
 
 # KEY ACTIVITIES #
 
--Input Collection:
+- Input Collection:
 The program prompts the user to enter two numbers (num1 and num2) as input.
 It also asks the user to select an operation (addition, subtraction, multiplication, or division).<br>
 -Operations:
