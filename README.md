@@ -12,6 +12,10 @@
 
 Create a Python program that acts as a basic calculator. It should prompt the user to enter two numbers and choose an operation (addition, subtraction, multiplication, division). Then, it should perform the selected operation and display the result to the user.
 
+# Advanced Calculator
+
+This Python program implements an advanced calculator with basic arithmetic operations: addition, subtraction, multiplication, and division.
+
 # KEY ACTIVITIES #
 
 - Input Collection:
