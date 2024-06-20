@@ -34,7 +34,7 @@ The program displays the result of the chosen operation.
 
 ## How to Use
 
-1. Enter two numbers when prompted.
-2. Select an operation ((+) for addition, (-) for subtraction, (*) for multiplication, or (/) for division).
-3. The program will display the result.
+-  Enter two numbers when prompted.
+-  Select an operation ((+) for addition, (-) for subtraction, (*) for multiplication, or (/) for division).
+-  The program will display the result.
 
