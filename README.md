@@ -39,25 +39,25 @@ The program displays the result of the chosen operation.
 -  The program will display the result.
 
 # Advanced Calculator Project Conclusion
-*Objective:* The goal of this project was to create a Python-based calculator capable of performing basic arithmetic operations: addition, subtraction, multiplication, and division.<br>
-*Features Implemented:*
+*1.Objective:* The goal of this project was to create a Python-based calculator capable of performing basic arithmetic operations: addition, subtraction, multiplication, and division.<br>
+*2.Features Implemented:*
 * The program collects two numbers from the user.
 * It prompts the user to select an operation.
 * Based on the user’s choice, it performs the corresponding calculation.
 * Error handling prevents division by zero.
-Technologies Used:
-Python: The primary programming language.
-Functions: Modularized code for each operation.
-Input/Output (I/O): User input and result display.
-Conditional Statements: Decision-making based on user choice.
-Floating-Point Arithmetic: Handling decimal values.
-Next Steps:
-You can enhance the calculator by adding more features:
-Support for additional mathematical functions (e.g., square root, exponentiation).
-A user-friendly menu system.
-Error handling for invalid inputs.
-Unit tests to verify correctness.
-A graphical user interface (GUI) using libraries like Tkinter.
-Acknowledgments:
-Thanks for exploring this project! Feel free to adapt, modify, or build upon it.
-Keep coding and learning—it’s an exciting journey!
+*3.Technologies Used:*
+* Python: The primary programming language.
+* Functions: Modularized code for each operation.
+* Input/Output (I/O): User input and result display.
+* Conditional Statements: Decision-making based on user choice.
+* Floating-Point Arithmetic: Handling decimal values.
+*4.Next Steps:*
+*You can enhance the calculator by adding more features:*
+* Support for additional mathematical functions (e.g., square root, exponentiation).
+* A user-friendly menu system.
+* Error handling for invalid inputs.
+* Unit tests to verify correctness.
+* A graphical user interface (GUI) using libraries like Tkinter.
+*5.Acknowledgments:*
+* Thanks for exploring this project! Feel free to adapt, modify, or build upon it.
+* Keep coding and learning—it’s an exciting journey!
