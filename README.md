@@ -31,3 +31,10 @@ divide(x, y): Divides the first number by the second (handles division by zero).
 Based on the user’s input (choice), the program performs the selected operation.<br>
 - Output Display:
 The program displays the result of the chosen operation.
+
+## How to Use
+
+1. Enter two numbers when prompted.
+2. Select an operation ((+) for addition, (-) for subtraction, (*) for multiplication, or (/) for division).
+3. The program will display the result.
+
