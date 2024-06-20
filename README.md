@@ -17,13 +17,13 @@ Create a Python program that acts as a basic calculator. It should prompt the us
 - Input Collection:
 The program prompts the user to enter two numbers (num1 and num2) as input.
 It also asks the user to select an operation (addition, subtraction, multiplication, or division).<br>
--Operations:
+- Operations:
 The program defines four functions for different mathematical operations:
 add(x, y): Adds two numbers.
 subtract(x, y): Subtracts the second number from the first.
 multiply(x, y): Multiplies the two numbers.
 divide(x, y): Divides the first number by the second (handles division by zero).<br>
--User Choice:
+- User Choice:
 Based on the user’s input (choice), the program performs the selected operation.<br>
--Output Display:
+- Output Display:
 The program displays the result of the chosen operation.
