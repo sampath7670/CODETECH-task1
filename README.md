@@ -46,9 +46,9 @@ The program displays the result of the chosen operation.
 * Based on the user’s choice, it performs the corresponding calculation.
 * Error handling prevents division by zero.<br>
 *3.Technologies Used:*
-  * Python: The primary programming language.
-  * Functions: Modularized code for each operation.
-  * Input/Output (I/O): User input and result display.
+* Python: The primary programming language.
+* Functions: Modularized code for each operation.
+* Input/Output (I/O): User input and result display.
   * Conditional Statements: Decision-making based on user choice.
   * Floating-Point Arithmetic: Handling decimal values.<br>
 *4.Next Steps:*
